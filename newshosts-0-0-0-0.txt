@@ -30,7 +30,7 @@
 0.0.0.0 walesonline.co.uk
 0.0.0.0 thepoke.co.uk
 0.0.0.0 birminghammail.co.uk
-0.0.0.0 belfasttelegraph.co.uk
+0.0.0.0 tvtropes.org
 0.0.0.0 scotsman.com
 0.0.0.0 thedailymash.co.uk
 0.0.0.0 theweek.co.uk
@@ -58,19 +58,19 @@
 0.0.0.0 churchnewspaper.com
 0.0.0.0 scottishfield.co.uk
 0.0.0.0 dailyecho.co.uk
-0.0.0.0 
+0.0.0.0 theamericanconservative.com
 0.0.0.0 www-nbcnews-com.cdn.ampproject.org
 0.0.0.0 www-nationalreview-com.cdn.ampproject.org
 0.0.0.0 www-washingtonpost-com.cdn.ampproject.org
 0.0.0.0 www-nytimes-com.cdn.ampproject.org
 0.0.0.0 www-politico-com.cdn.ampproject.org
 0.0.0.0 www-hill-com.cdn.ampproject.org
-0.0.0.0 
+0.0.0.0 thedispatch.com
 0.0.0.0 amp.nationalreview.com
 0.0.0.0 amp.washingtonpost.com
 0.0.0.0 amp.nytimes.com
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 www.thedispatch.com
+0.0.0.0 www.theamericanconservative.com
 0.0.0.0 bing.com
 0.0.0.0 cbs.com
 0.0.0.0 techcrunch.com
